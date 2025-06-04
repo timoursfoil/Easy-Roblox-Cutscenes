@@ -42,7 +42,7 @@ local npcAnimations = {
 	-- { tweenPlay = 1, when = 1, npc = "b", animationId = "rbxassetid://84197626855631", doesLoop = false },
 	-- tweenPlay: which tween step to trigger on
 	-- when: normalized progress through tween (0=start, 1=end)
-	-- npc: NPC model name in workspace
+	-- npc: NPC model name in npc folder
 	-- animationId: animation asset ID
 	-- doesLoop: whether animation loops
 }
